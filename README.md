@@ -1,11 +1,15 @@
 Hello World ! My name is Bryant, im a Front End Developer based in Los Angeles, California ! 
-I enjoy building 
 <br/>
-<br/>
+***
+
+About me !
++ ⚽️ I enjoy playing all kinds of sports, Soccer is my favorite though !
++ 🧠 I love problem solving ( which is proabably why i enjoy coding )
++ 🍳 Cooking is one or my favorite hobbies ! 
 
 Lets Connect ! 
 <br/>
-<br/>
+***
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 Skills / Frameworks ! 
