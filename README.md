@@ -7,9 +7,9 @@ About me !
 + 🧠 I love problem solving ( which is proabably why i enjoy coding )
 + 🍳 Cooking is one or my favorite hobbies ! 
 
-Lets Connect ! 
 <br/>
 ***
+Lets Connect ! 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 Skills / Frameworks ! 
