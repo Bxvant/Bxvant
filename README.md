@@ -1,4 +1,5 @@
-Hello World ! My name is Bryant, im a Front End Developer based in Los Angeles California ! 
+ <strong> Hello World ! My name is Bryant, im a Front End Developer based in Los Angeles California ! </strong>
+
 <br/>
 <br/>
 
