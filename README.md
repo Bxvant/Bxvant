@@ -3,9 +3,9 @@ Hello World ! My name is Bryant, im a Front End Developer based in Los Angeles, 
 ***
 
 About me !
-+ ⚽️ I enjoy playing all kinds of sports, Soccer is my favorite though !
-+ 🧠 I love problem solving ( which is proabably why i enjoy coding )
-+ 🍳 Cooking is one or my favorite hobbies ! 
++ ⚽️ I enjoy playing all kinds of sports, Soccer is my favorite !
++ 🧠 I love problem solving ( which is why i enjoy coding! )
++ 🍳 Cooking is one of my favorite hobbies ! 
 
 <br/>
 Lets Connect ! 
